@@ -1,0 +1,3 @@
+G:/Justin/Documentos/Universidad/Progra II/Proyectos/CLionProjects/CLionProjects/Proyecto4/proyecto4_2023_2/proyecto4_2023_2/src/cmake-build-debug/CMakeFiles/Calculadora.dir
+G:/Justin/Documentos/Universidad/Progra II/Proyectos/CLionProjects/CLionProjects/Proyecto4/proyecto4_2023_2/proyecto4_2023_2/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Justin/Documentos/Universidad/Progra II/Proyectos/CLionProjects/CLionProjects/Proyecto4/proyecto4_2023_2/proyecto4_2023_2/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir

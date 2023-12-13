@@ -1,0 +1,206 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "Calculadora.exe"
+		},
+		{
+			"path" : "Calculadora.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 4,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -fdiagnostics-color=always"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 2,
+					"path" : "/include"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		}
+	],
+	"id" : "Calculadora::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "Calculadora",
+	"nameOnDisk" : "Calculadora.exe",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "main.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "token.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "tokenizer.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "shunting_yard.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "postfijo.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "calculadora.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "G:/Justin/Documentos/Universidad/Progra II/Proyectos/CLionProjects/CLionProjects/Proyecto4/proyecto4_2023_2/proyecto4_2023_2/include/BST.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "G:/Justin/Documentos/Universidad/Progra II/Proyectos/CLionProjects/CLionProjects/Proyecto4/proyecto4_2023_2/proyecto4_2023_2/include/calculadora.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "G:/Justin/Documentos/Universidad/Progra II/Proyectos/CLionProjects/CLionProjects/Proyecto4/proyecto4_2023_2/proyecto4_2023_2/include/fibonacci.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "G:/Justin/Documentos/Universidad/Progra II/Proyectos/CLionProjects/CLionProjects/Proyecto4/proyecto4_2023_2/proyecto4_2023_2/include/ITree.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "G:/Justin/Documentos/Universidad/Progra II/Proyectos/CLionProjects/CLionProjects/Proyecto4/proyecto4_2023_2/proyecto4_2023_2/include/postfijo.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "G:/Justin/Documentos/Universidad/Progra II/Proyectos/CLionProjects/CLionProjects/Proyecto4/proyecto4_2023_2/proyecto4_2023_2/include/shunting_yard.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "G:/Justin/Documentos/Universidad/Progra II/Proyectos/CLionProjects/CLionProjects/Proyecto4/proyecto4_2023_2/proyecto4_2023_2/include/token.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "G:/Justin/Documentos/Universidad/Progra II/Proyectos/CLionProjects/CLionProjects/Proyecto4/proyecto4_2023_2/proyecto4_2023_2/include/tokenizer.hh",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "EXECUTABLE"
+}

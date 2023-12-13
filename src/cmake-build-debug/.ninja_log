@@ -1,0 +1,8 @@
+# ninja log v5
+0	545	7241045283590294	CMakeFiles/Calculadora.dir/main.obj	f79112bc155c6c62
+545	925	7241045287445838	CMakeFiles/Calculadora.dir/tokenizer.obj	1899dfd724467fb5
+7	781	7241045285834397	CMakeFiles/Calculadora.dir/shunting_yard.obj	22bf5f0f4fac08e1
+4	375	7241045281903809	CMakeFiles/Calculadora.dir/token.obj	93b67d6a32b8b901
+376	1076	7241045288949242	CMakeFiles/Calculadora.dir/postfijo.obj	da53b82909142be4
+4	817	7240587368673898	CMakeFiles/Calculadora.dir/calculadora.obj	997ee365fdc2c94a
+818	1186	7240587371663595	Calculadora.exe	404b01114a17ff56

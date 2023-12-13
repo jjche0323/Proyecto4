@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/Administrador/Documents/GitHub/Proy4/Proyecto4/proyecto4_2023_2/proyecto4_2023_2/tests/cmake-build-debug/unit_tests[1]_tests.cmake")
+  include("C:/Users/Administrador/Documents/GitHub/Proy4/Proyecto4/proyecto4_2023_2/proyecto4_2023_2/tests/cmake-build-debug/unit_tests[1]_tests.cmake")
+else()
+  add_test(unit_tests_NOT_BUILT unit_tests_NOT_BUILT)
+endif()
